@@ -46,7 +46,7 @@ background-color: #f2e0d2;border-bottom: 1px solid #d2a679;
 .btn{display:inline-block;border: 1px solid rgb(212, 69, 69); padding: 10px 20px;margin-top:100px;font-weight: bold;color: #fff;}
 .btn:hover {background: rgb(218, 59, 120);}
 
-.box{width: 1320px;margin: 100px auto;height: 1750px;text-align: center;position: relative;}
+#box{width: 1320px;margin: 100px auto;height: 1750px;text-align: center;position: relative;}
 .img1{position: absolute;top: 0;left: 474px;width: 30px;height: 30px;}
 .img2{position: absolute;top: -30px;left:500px;width: 30px;height: 30px;}
 .img3{position: absolute;top: 65px;left:783px;width: 44px;height: 53px;}
