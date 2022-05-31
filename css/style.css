@@ -43,8 +43,10 @@ background-color: #f2e0d2;border-bottom: 1px solid #d2a679;
 
 .bannertext{color: rgb(55, 95, 228);padding:100px 0 30px 0px;font-size: 40px;}
 .bannertext1{color: rgb(55, 95, 228);font-size: 20px;}
-.btn{display:inline-block;border: 1px solid rgb(212, 69, 69); padding: 10px 20px;margin-top:100px;font-weight: bold;color: #fff;}
+.btn{display:inline-block;border: 1px solid rgb(212, 69, 69); padding: 10px 20px;margin-top:100px;font-weight: bold;color: #fff;margin-right: -5px;}
+.btn1{display:inline-block;border: 1px solid rgb(212, 69, 69); padding: 10px 20px;margin-top:100px;font-weight: bold;color: #fff;margin-left: -2px;}
 .btn:hover {background: rgb(218, 59, 120);}
+.btn1:hover {background: rgb(218, 59, 120);}
 
 #box{width: 1320px;margin: 100px auto;height: 1750px;text-align: center;position: relative;}
 .img1{position: absolute;top: 0;left: 474px;width: 30px;height: 30px;}
